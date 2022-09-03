@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To run this project perfectly you need a API key from : https://rapidapi.com/ytdlfree/api/youtube-v31/
+
+Put it in **.env** file with name:
+
+**REACT\_APP\_API\_KEY**
+
 ## Available Scripts
 
 In the project directory, you can run:
