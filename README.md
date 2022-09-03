@@ -8,6 +8,11 @@ Put it in **.env** file with name:
 
 **REACT\_APP\_API\_KEY**
 
+Deployed on :
+=============
+
+#### https://willowy-sopapillas-d29fd6.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
